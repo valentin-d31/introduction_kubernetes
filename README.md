@@ -5,3 +5,4 @@ page par défaut de votre pod Nginx
 
 ->kubectl port-forward nginx-pod 8080:80
 
+##Question 3 Connexion entre plusieurs Pods
